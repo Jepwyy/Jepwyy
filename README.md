@@ -41,4 +41,5 @@
 
 ###
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jepwyy)
+
+![](https://komarev.com/ghpvc/?username=jepwyy&color=brightgreen&label=Visitor-Badge)
