@@ -1,3 +1,18 @@
+# Hi! I'm Jeffrey Brian L. Jonelas ッ
+
+<p align="center">
+  <a href="https://github.com/leloykun">
+    <img src="https://img.shields.io/github/followers/jepwyy.svg?label=GitHub&style=social" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+	<a href="#">
+    <img src="https://img.shields.io/badge/CV--_.svg?style=social&logo=giphy" alt="Curriculum Vitae">
+  </a>
+</p>
+
+
 <a href="https://app.daily.dev/jepwyy"><img src="https://api.daily.dev/devcards/1fff81d6b17a490eb97f4bbf545f3bdd.png?r=rui" width="400" alt="Jeffrey Brian  Jonelas's Dev Card"/></a>
 
 ### Stack : 🛠
