@@ -1,4 +1,4 @@
-# Hi! I'm Jeffrey Brian L. Jonelas ッ
+# Hi! I'm Jeffrey Brianッ
 
 <p align="center">
   <a href="https://github.com/jepwyy">
